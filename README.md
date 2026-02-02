@@ -1,8 +1,5 @@
 # IPL-Matches-EDA
 EDA on IPL matches from 2008-2024
-
-# IPL Matches EDA
-
 Exploratory Data Analysis (EDA) of Indian Premier League (IPL) matches from 2008 to 2024.
 
 ## Objective
